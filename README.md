@@ -1,4 +1,4 @@
-# CarbonMRV+ Platform
+# CarbonMRV+ Platform for NABARD Hackathon
 
 A comprehensive web application for Monitoring, Reporting, and Verification (MRV) in agroforestry and rice-based carbon projects in India. The platform provides farmer-friendly interfaces for data collection and verifier-ready tools for carbon credit estimation and reporting.
 
